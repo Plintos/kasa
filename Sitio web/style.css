@@ -1,0 +1,38 @@
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 90px;    
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 40px;
+    }
+body {
+    background-color: #07393C;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+.navbar {
+    display: flex;
+    margin-top: 15px;
+    
+    }
+.navbar a {
+    color: #ffffff;
+    font-size: 22px;
+    text-decoration: none;  
+    margin-inline: 30px;
+    }
+.frase-1 {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 80px;
+    }
+
+.info-1 {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 400px;
+    margin-left: 80px;
+    }
